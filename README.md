@@ -7,5 +7,5 @@ Alternatively you can use `php check.php <path-to-composer.lock>`
 
 ## Exit codes
 0: No issues
->0: Issue count
+1..x: Issue count
 <0: Error
